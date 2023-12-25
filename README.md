@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @akhileshamle
-- 👀 I’m interested in iOS Application Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- iOS dev (5.6 years)
+- current: Target India (Bengaluru), May 2022, 1.7 years
+  - In house arch
+- previous: Aloha Technology Pvt. Ltd. (Pune), 3.11 years, April 2018 - April 2022
+  - MVC, MVVM
+
 - 📫 How to reach me:
   - Gmail - amleakhilesh@gmail.com
   - Linked In - www.linkedin.com/in/akhillesh-aamle
